@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e30b"],{d504:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("div",{staticClass:"container"},[e._v(" 介紹最近研究的東西，使用 Vue2 為主。 ")])])}],r={name:"Index"},s=r,u=t("2877"),i=Object(u["a"])(s,c,a,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d21e30b.56ab372e.js.map
