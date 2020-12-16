@@ -1,0 +1,38 @@
+ul {
+  padding: 0;
+}
+ul li{
+  list-style: none;
+}
+.darkbutton {
+  background-color: #ff69b4;
+  color: #7fffd4;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px;
+}
+.darkbutton:hover {
+  text-decoration:none;
+  background-color: #ff66cc;
+  color: #dcdcdc;
+  border: 1px solid #800000;
+}
+.drop {
+  border: 3px solid #93FF93;
+  padding: 16px;
+}
+.drag {
+  width: 45px;
+  height: 45px;
+  background-color: #019858;
+  border: 2.5px solid #5B00AE;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.navH {
+  height: 500px;
+  background-color: #BE77FF;
+}
